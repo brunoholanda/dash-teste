@@ -1,0 +1,275 @@
+{
+    "date": "2024-10-18",
+    "Akki Atacadista": {
+        "paraGerar": 11134,
+        "pdfGerado": 14550,
+        "smsParaEnviar": 3159,
+        "smsEnviado": 4608,
+        "emailParaEnviar": 3407,
+        "emailEnviado": 3609
+    },
+    "Alvorada": {
+        "paraGerar": 7218,
+        "pdfGerado": 12778,
+        "smsParaEnviar": 5772,
+        "smsEnviado": 3149,
+        "emailParaEnviar": 2720,
+        "emailEnviado": 1691
+    },
+    "andocard": {
+        "paraGerar": 14356,
+        "pdfGerado": 14992,
+        "smsParaEnviar": 4246,
+        "smsEnviado": 2040,
+        "emailParaEnviar": 3128,
+        "emailEnviado": 3998
+    },
+    "Andocard MHML": {
+        "paraGerar": 19935,
+        "pdfGerado": 12968,
+        "smsParaEnviar": 3911,
+        "smsEnviado": 4886,
+        "emailParaEnviar": 2426,
+        "emailEnviado": 1523
+    },
+    "Atacadão Dia a Dia": {
+        "paraGerar": 8999,
+        "pdfGerado": 13508,
+        "smsParaEnviar": 7352,
+        "smsEnviado": 4382,
+        "emailParaEnviar": 2534,
+        "emailEnviado": 2372
+    },
+    "Avenida": {
+        "paraGerar": 8735,
+        "pdfGerado": 5422,
+        "smsParaEnviar": 3356,
+        "smsEnviado": 4453,
+        "emailParaEnviar": 3649,
+        "emailEnviado": 1507
+    },
+    "Bahamas": {
+        "paraGerar": 16001,
+        "pdfGerado": 10904,
+        "smsParaEnviar": 5611,
+        "smsEnviado": 5851,
+        "emailParaEnviar": 2430,
+        "emailEnviado": 1804
+    },
+    "BANDCARD": {
+        "paraGerar": 9390,
+        "pdfGerado": 14309,
+        "smsParaEnviar": 4352,
+        "smsEnviado": 3206,
+        "emailParaEnviar": 4814,
+        "emailEnviado": 3166
+    },
+    "Becker Financeira": {
+        "paraGerar": 17166,
+        "pdfGerado": 6443,
+        "smsParaEnviar": 4274,
+        "smsEnviado": 4914,
+        "emailParaEnviar": 3601,
+        "emailEnviado": 1897
+    },
+    "Bem barato": {
+        "paraGerar": 5940,
+        "pdfGerado": 7903,
+        "smsParaEnviar": 3463,
+        "smsEnviado": 3237,
+        "emailParaEnviar": 2131,
+        "emailEnviado": 3835
+    },
+    "Campelo": {
+        "paraGerar": 6211,
+        "pdfGerado": 13205,
+        "smsParaEnviar": 7114,
+        "smsEnviado": 4805,
+        "emailParaEnviar": 3077,
+        "emailEnviado": 3223
+    },
+    "Cartão Drogal": {
+        "paraGerar": 18233,
+        "pdfGerado": 12935,
+        "smsParaEnviar": 5036,
+        "smsEnviado": 5650,
+        "emailParaEnviar": 3549,
+        "emailEnviado": 1581
+    },
+    "Cassol": {
+        "paraGerar": 18394,
+        "pdfGerado": 11592,
+        "smsParaEnviar": 3532,
+        "smsEnviado": 4966,
+        "emailParaEnviar": 4191,
+        "emailEnviado": 2941
+    },
+    "Cattan": {
+        "paraGerar": 17563,
+        "pdfGerado": 7684,
+        "smsParaEnviar": 7817,
+        "smsEnviado": 2564,
+        "emailParaEnviar": 3094,
+        "emailEnviado": 2072
+    },
+    "Centauro": {
+        "paraGerar": 13193,
+        "pdfGerado": 11987,
+        "smsParaEnviar": 7072,
+        "smsEnviado": 3317,
+        "emailParaEnviar": 2926,
+        "emailEnviado": 2674
+    },
+    "clubpay": {
+        "paraGerar": 10722,
+        "pdfGerado": 11197,
+        "smsParaEnviar": 3711,
+        "smsEnviado": 5587,
+        "emailParaEnviar": 4740,
+        "emailEnviado": 2675
+    },
+    "ConfPay": {
+        "paraGerar": 10835,
+        "pdfGerado": 10819,
+        "smsParaEnviar": 3296,
+        "smsEnviado": 2547,
+        "emailParaEnviar": 2925,
+        "emailEnviado": 1537
+    },
+    "credparpix": {
+        "paraGerar": 16020,
+        "pdfGerado": 9623,
+        "smsParaEnviar": 4899,
+        "smsEnviado": 5646,
+        "emailParaEnviar": 3759,
+        "emailEnviado": 2640
+    },
+    "Elevaty - SNX": {
+        "paraGerar": 14247,
+        "pdfGerado": 6143,
+        "smsParaEnviar": 7691,
+        "smsEnviado": 2385,
+        "emailParaEnviar": 4849,
+        "emailEnviado": 2211
+    },
+    "Empório Alex": {
+        "paraGerar": 19410,
+        "pdfGerado": 9965,
+        "smsParaEnviar": 3214,
+        "smsEnviado": 3980,
+        "emailParaEnviar": 3982,
+        "emailEnviado": 3671
+    },
+    "FacilPraPagar": {
+        "paraGerar": 18527,
+        "pdfGerado": 6438,
+        "smsParaEnviar": 4987,
+        "smsEnviado": 3883,
+        "emailParaEnviar": 3009,
+        "emailEnviado": 3333
+    },
+    "frigelar": {
+        "paraGerar": 14252,
+        "pdfGerado": 14256,
+        "smsParaEnviar": 3237,
+        "smsEnviado": 2834,
+        "emailParaEnviar": 2015,
+        "emailEnviado": 2556
+    },
+    "goiascred": {
+        "paraGerar": 13689,
+        "pdfGerado": 12379,
+        "smsParaEnviar": 3150,
+        "smsEnviado": 3247,
+        "emailParaEnviar": 2137,
+        "emailEnviado": 1966
+    },
+    "Guanabara": {
+        "paraGerar": 7882,
+        "pdfGerado": 4323,
+        "smsParaEnviar": 6115,
+        "smsEnviado": 4897,
+        "emailParaEnviar": 3260,
+        "emailEnviado": 1774
+    },
+    "Hiper Stream - Hi Bank": {
+        "paraGerar": 15902,
+        "pdfGerado": 10193,
+        "smsParaEnviar": 7510,
+        "smsEnviado": 4682,
+        "emailParaEnviar": 4264,
+        "emailEnviado": 2880
+    },
+    "Tridico": {
+        "paraGerar": 6858,
+        "pdfGerado": 5605,
+        "smsParaEnviar": 3694,
+        "smsEnviado": 3347,
+        "emailParaEnviar": 2704,
+        "emailEnviado": 2117
+    },
+    "Trimais MHML": {
+        "paraGerar": 18233,
+        "pdfGerado": 4080,
+        "smsParaEnviar": 4506,
+        "smsEnviado": 5768,
+        "emailParaEnviar": 2580,
+        "emailEnviado": 3057
+    },
+    "unicompra": {
+        "paraGerar": 8349,
+        "pdfGerado": 12313,
+        "smsParaEnviar": 7277,
+        "smsEnviado": 3328,
+        "emailParaEnviar": 4204,
+        "emailEnviado": 1818
+    },
+    "veran": {
+        "paraGerar": 16112,
+        "pdfGerado": 8105,
+        "smsParaEnviar": 3062,
+        "smsEnviado": 2308,
+        "emailParaEnviar": 2070,
+        "emailEnviado": 3384
+    },
+    "Veran MHML": {
+        "paraGerar": 10946,
+        "pdfGerado": 7605,
+        "smsParaEnviar": 7108,
+        "smsEnviado": 5842,
+        "emailParaEnviar": 4648,
+        "emailEnviado": 2906
+    },
+    "visual": {
+        "paraGerar": 10710,
+        "pdfGerado": 12232,
+        "smsParaEnviar": 5837,
+        "smsEnviado": 3845,
+        "emailParaEnviar": 3175,
+        "emailEnviado": 3444
+    },
+    "Vox": {
+        "paraGerar": 8568,
+        "pdfGerado": 6966,
+        "smsParaEnviar": 3861,
+        "smsEnviado": 3963,
+        "emailParaEnviar": 3207,
+        "emailEnviado": 3674
+    },
+    "Vuon": {
+        "paraGerar": 8370,
+        "pdfGerado": 13598,
+        "smsParaEnviar": 5332,
+        "smsEnviado": 2629,
+        "emailParaEnviar": 2764,
+        "emailEnviado": 2015
+    },
+    "Zonta": {
+        "paraGerar": 9013,
+        "pdfGerado": 5003,
+        "smsParaEnviar": 3712,
+        "smsEnviado": 2357,
+        "emailParaEnviar": 4384,
+        "emailEnviado": 1872
+    }
+}
